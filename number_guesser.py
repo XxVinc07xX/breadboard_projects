@@ -1,3 +1,6 @@
+#autor : XxVinc07xX
+
+
 from gpiozero import LED
 import random
 import time

@@ -1,3 +1,6 @@
+#autor : XxVinc07xX
+
+
 import random
 
 

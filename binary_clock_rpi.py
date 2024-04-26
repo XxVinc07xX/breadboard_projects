@@ -1,3 +1,5 @@
+#autor : XxVinc07xX
+
 from gpiozero import LED
 import time
 import datetime
