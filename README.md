@@ -1,6 +1,6 @@
 # BreadBoard Projects - XxVinc07xX
 
-Until now, the projects in this repo uses some leds on a breadbord connected on a raspberry pi to perform multiple things
+Until now, the projects in this repo are using some leds on a breadbord connected on a raspberry pi to perform multiple things
 
 ## Setup - Ubuntu
 
