@@ -18,7 +18,7 @@ Let's review the already implemented projects!
 ### Binary Clock
 You'll find here an implementation of a binary clock. 
 You'll need : 
-- 17 leds (5 ford hours, 6 for minutes and seconds)
+- 17 leds (5 for hours, 6 for minutes and seconds)
 
 ### Number Guesser
 From a personal observation, I've understood that my binary counting was not smooth enough so I decided to implement a binary counting game.
